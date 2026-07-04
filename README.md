@@ -1,3 +1,11 @@
+## About Project
+It scraps data from indviduals socials and make content plans for them according to their past posts and captions about their business.
+
+It is an under process project its main goal is marketing automation as much possible from ai for now i am only able to make it up till content palnning.
+I am indvidual worker on this project, so because lack of resorces i am anable to complete this project.
+It is under development though.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
